@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:28.354170
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:45
 #+TITLE: 佛說阿鳩留經
 #+PROPERTY: CBETA_ID T14n0529
 #+PROPERTY: ID KR6i0159
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 529
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0159_T_000-0804a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0159_T_001-0804a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.529¶
-
- 佛說阿鳩留經¶
+No. 529¶
+佛說阿鳩留經¶
 ¶
 僧祐錄云安公古典經今附漢錄¶
 
@@ -27,8 +26,8 @@ No.529¶
 <pb:KR6i0159_T_001-0804b>¶
 甚富，金銀珍寶，奴婢眾多。阿鳩留不信有¶
 後世生，作善不得善，作惡不得惡。阿鳩留¶
-言：『人死後身、地外地身、水外水身、火外火¶
-身、風外風身皆共和合，人死後終不復生¶
+言：『人死後身地外地、身水外水、身火外火、¶
+身風外風，身皆共和合，人死後終不復生¶
 也。人所作善惡，心所念、口所言、身所行，皆¶
 當棄捐，後不復生。』
 
